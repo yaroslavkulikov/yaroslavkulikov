@@ -3,7 +3,7 @@ My specialty: Fullstack WordPress Developer
 Моя специальность: Fullstack WordPress разработчик
 ## Technologies / Технологии
 ![HTML5](https://img.shields.io/static/v1?label=&labelColor=333333&message=HTML&color=E34F26&style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/static/v1?label=&labelColor=333333&message=CSS&color=1572B6&style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/static/v1?label=&labelColor=333333&message=CSS&color=1572B6&style=flat&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/static/v1?label=&labelColor=333333&message=JavaScript&color=F7DF1E&style=flat&logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/static/v1?label=&labelColor=333333&message=SCSS&color=CC6699&style=flat&logo=sass&logoColor=white)
 ![WordPress](https://img.shields.io/static/v1?label=&labelColor=333333&message=WordPress&color=21759B&style=flat&logo=wordpress&logoColor=white)
